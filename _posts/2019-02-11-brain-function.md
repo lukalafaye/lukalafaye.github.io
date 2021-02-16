@@ -45,3 +45,5 @@ Finally, **the hippocampus** is in charge of the creation of memories, as well a
 # Conclusion
 
 The brain is a beautifully complicated thing, and it is full of mysteries. So many questions about the brain remain, with answers we may never find or understand. It truly is one of the wonders of this world.
+
+Published by Baptiste Brossette.
