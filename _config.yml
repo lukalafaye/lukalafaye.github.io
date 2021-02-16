@@ -1,6 +1,6 @@
 # Site Settings
-name: Luka
-title: Hello :)
+name: Please bring me back to the top!
+title: 🐧
 description: You've reached my personal website.
 tags:
   - blog
@@ -35,7 +35,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.lukalafaye.github.io" # the base hostname & protocol for your site
+url: "https://lukalafaye.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
