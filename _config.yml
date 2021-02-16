@@ -1,7 +1,7 @@
 # Site Settings
-name: HackDown
-title: HackDown
-description: HackDown is a community of students sharing their passion and knowledge founded on January 16, 2019.
+name: Luka
+title: Hello :)
+description: You've reached my personal website.
 tags:
   - blog
   - science
@@ -9,7 +9,6 @@ tags:
   - web
   - hacking
   - programming
-  - hackdown
 show_hero: true
 menu:
   - title: Home
@@ -20,12 +19,12 @@ menu:
     url: /authors
   - title: Contact us
     url: /contact
-email: contact@hackdown.tech
+email: llafayed@pm.me
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: hackdown-org
+github_username: lukalafaye
 
 # Posts Settings
 show_time_bar: true
@@ -36,7 +35,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.hackdown.tech" # the base hostname & protocol for your site
+url: "https://www.lukalafaye.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
