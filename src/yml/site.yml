@@ -1,0 +1,22 @@
+name: HackDown
+title: HackDown
+description: HackDown is a community of students sharing their passion and knowledge founded on January 16, 2019.
+tags:
+  - blog
+  - science
+  - technology
+  - web
+  - hacking
+  - programming
+  - hackdown
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About 
+    url: /about
+  - title: Authors
+    url: /authors
+  - title: Contact us
+    url: /contact
+email: contact@hackdown.tech
