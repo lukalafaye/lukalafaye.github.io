@@ -114,3 +114,5 @@ Windows Phone was a mobile operating system from Microsoft used on _Nokia Lumia_
 # Can I change the OS on my mobile device?
 
 Yes you can, it is tricky but some workarounds help you boot on a different OS (ie: SailfishOS, postmarketOS) even thoguh they don't support all devices and are often unstable.
+
+Published by FreeApp2014
