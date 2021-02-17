@@ -36,8 +36,6 @@ It is possible to obtain tritium and helium out of lithium 6 and neutrons. That 
 
 If this type of fusion can be carried out, we will have enough deuterium atoms to produce energy for everyone for the next 30 million years.
 
-For that, we would need to keep gas at a temperature of 150 million degrees! It seems impossible although it has already been done using a magnetic field and what is called a magnetic torus-shaped bottle. In fact, in 1997, the World's biggest fusion experiment (JET) took place and we were able to produce 16 megawatts of energy. 200 tons of uranium are normally required to produce 1 megawatt.
+For that, we would need to keep gas at a temperature of 150 million degrees! It seems impossible although it has already been done using a magnetic field and what is called a magnetic torus-shaped bottle. In fact, in 1997, the World's biggest fusion experiment (JET) took place and we were able to produce 16 megawatts of energy. To give you a better picture of what that number represents, 200 tons of uranium are normally required to produce just 1 megawatt.
 
-10 billion has been invested by the world's major powers to create a device that would enable this fusion, and by 2013, it is expected that half a gigawatt of energy will be produced in the form of heat. There is also the question of converting this energy into electricity so that it can be consumed.
-
-In conclusion, the real question that needs to be asked is when will we be able to convert fusion energy into electricity. Scientists predict that we will be able to do it by 2040, and there will certainly be problems between now and then.
+In conclusion, fusion is definitely possible. When will we be able to convert fusion energy into electricity? Scientists predict that this will be possible by 2040.
