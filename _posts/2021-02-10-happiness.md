@@ -1,5 +1,5 @@
 ---
-date: 2020-02-17 21:38:40
+date: 2020-02-10 21:38:40
 layout: post
 title: What makes a good life?
 subtitle: "The good life is built with good relationships."
