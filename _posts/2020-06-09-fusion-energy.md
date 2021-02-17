@@ -14,8 +14,6 @@ tags:
 paginate: true
 ---
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/steven_cowley_fusion_is_energy_s_future" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
-
 Fusion could help produce very large amounts of renewable energy in the upcoming years. Currently, only 10.4% of the energy consumed worldwide is renewable according to the BP Statistical Review, a British oil extraction, refining and sales company. This means that 90.6% of the energy we consume nowadays will have to be replaced in the near future. 
 
 Some people believe that nuclear power will be more than enough to cover future energy needs. Nonetheless, it is not considered a renewable energy since it requires uranium, a heavy metal which exists in limited quantities on our planet. The Uranium Peak will occur in 2040 if we continue to mine it at the current rate.
@@ -41,3 +39,5 @@ If this type of fusion can be carried out, we will have enough deuterium atoms t
 For that, we would need to keep gas at a temperature of 150 million degrees! It seems impossible although it has already been done using a magnetic field and what is called a magnetic torus-shaped bottle. In fact, in 1997, the World's biggest fusion experiment took place at JET and we were able to produce 16 megawatts of energy. To give you a better picture of what that number represents, 200 tons of uranium is normally required to produce just 1 megawatt.
 
 In conclusion, fusion is definitely possible. When will we be able to convert fusion energy into electricity? Scientists predict that this will be possible by 2040.
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/steven_cowley_fusion_is_energy_s_future" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
