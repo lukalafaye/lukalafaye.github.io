@@ -3,7 +3,6 @@ date: 2019-01-07 00:00:42
 layout: post
 title: Can fish change sex?
 subtitle: It is possible and called sequential hermaphroditism
-description: It is possible and called sequential hermaphroditism
 image: /img/2019-01-07.jpg
 category: science
 tags: 
