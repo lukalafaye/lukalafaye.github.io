@@ -18,5 +18,5 @@ Hello wanderer! <script language="javascript">
     if (weekday == 4) document.write('On this pretty Thursday, ');
     if (weekday == 5) document.write('On this fine Friday, ');
     if (weekday == 6) document.write('On this pleasing Saturday, ');
-</script>you have approached a site of knowledge fashioned in the manner of modern blogs. As you shall see upon entry, if you so choose, there is quite a bit of information to indulge in. You will find here handy lore about science, technology, and programming.
+</script>you have approached a site of knowledge fashioned in the manner of modern blogs. As you shall see upon entry, if you so choose, there is quite a bit of information to indulge in. You will find here fascinating articles based off ted talks I enjoyed.
 <br>
