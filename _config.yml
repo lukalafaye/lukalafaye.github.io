@@ -3,11 +3,11 @@ name: Tedflix
 title: Luka Lafaye de Micheaux
 description: You've reached my personal website.
 tags:
-  - blog
+  - teds
   - science
+  - philosophy
+  - life
   - technology
-  - web
-  - programming
 show_hero: true
 menu:
   - title: About 
@@ -25,9 +25,9 @@ github_username: lukalafaye
 
 # Posts Settings
 show_time_bar: true
-show_modal_on_exit: true
-show_modal_on_finish_post: true
-two_columns_layout: true
+show_modal_on_exit: false
+show_modal_on_finish_post: false
+two_columns_layout: false
 
 
 # Advanced Settings
