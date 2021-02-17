@@ -1,5 +1,5 @@
 # Site Settings
-name: Please bring me back to the top!
+name: Blog
 title: 🐧
 description: You've reached my personal website.
 tags:
@@ -7,16 +7,13 @@ tags:
   - science
   - technology
   - web
-  - hacking
   - programming
 show_hero: true
 menu:
-  - title: Home
-    url: /
   - title: About 
     url: /about
-  - title: Authors
-    url: /authors
+  - title: Photography
+    url: /photography
   - title: Contact us
     url: /contact
 email: llafayed@pm.me
@@ -36,7 +33,6 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lukalafaye.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
