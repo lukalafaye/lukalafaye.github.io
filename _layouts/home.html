@@ -146,7 +146,6 @@ layout: main
         "itemListElement": [
         {% assign limit = 8 %}
         {% for post in posts limit: limit %}
-            {% assign author = site.authors | where: "name", post.author | first %}
             {
                 "@type": "BlogPosting",
                 "name": "{{ post.title }}",
@@ -158,11 +157,6 @@ layout: main
                 "dateCreated": "{{ post.date | date: '%Y-%m-%d/' }}",
                 "datePublished": "{{ post.date | date: '%Y-%m-%d/' }}",
                 "dateModified": "{{ post.date | date: '%Y-%m-%d/' }}",
-                "author": {
-                    "@type": "Person",
-                    "name": "{{ author.display_name }}",
-                    "url": "{{ author.url | prepend: site.baseurl | prepend: site.url }}"
-                },
                 "publisher": {
                     "@type": "Organization",
                     "name": "{{ site.name }}",
