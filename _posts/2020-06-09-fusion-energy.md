@@ -15,15 +15,13 @@ tags:
   - eddington
 paginate: true
 ---
-Fusion could make it possible to produce a lot of energy from a renewable source. Currently, only 10.4% of the energy consumed worldwide is renewable according to the BP Statistical Review. BP is a British oil exploration, extraction, refining and sales company that was founded in 1909. This means that 90.6% of the energy we consume today will have to be replaced in the near future. 
+Fusion could make it possible to produce very large amounts of renewable energy in the upcoming years. Currently, only 10.4% of the energy consumed worldwide is renewable according to the BP Statistical Review, a British oil extraction, refining and sales company. This means that 90.6% of the energy we consume nowadays will have to be replaced in the near future. 
 
-Countries that make a lot of money from energy have exhaustible resources at their disposal to produce that energy, including coal, oil and gas. And in a world where energy is increasingly being used to lift less developed LDCs and developing countries out of poverty, there is an urgent need to change the way we use energy.  way of producing energy since there will be no more of these resources left in the future. 
+Some people believe that nuclear power will be more than enough to cover future energy needs. Nonetheless, it is not considered a renewable energy since it requires uranium, a heavy metal which exists in limited quantities on our planet. The Uranium Peak will occur in 2040 if we continue to mine it at the current rate. Therefore, in 2040, there will be no uranium left to mine.
 
-Some people think that nuclear power will be more than enough, but it is not considered a renewable energy because it requires uranium, which exists in limited quantities on our planet. Uranium Peak will occur in 2040 if we continue to consume it at the current rate, so there will be none left at all in 40 years.
+So how can we produce energy without these resources? We can use renewable energy sources such as wind, water, fission, or even the sun. However, the ideal source would be fusion. It would not take much space, be inexhaustible, and would not release carbon or radioactive waste into the atmosphere.
 
-So how can we produce energy without these resources? We can use renewable energy sources such as wind, water, fission, sun, but the ideal source would be fusion. It would not take up much space, it would be inexhaustible, it is harmless to the environment, it does not release carbon into the atmosphere, it does not release radioactive waste.
-
-In the future, energy will be produced from our knowledge and not from our resources. We will have to learn how to use energy sources, how to convert these new energies quickly and efficiently so that they can be easily consumed.
+In the future, energy will be produced thanks to our knowledge and not using exhaustible resources. We need to learn how to use renewable energy sources, and how to convert new energies quickly and efficiently in order to exploit them.
 
 So how do we get energy from fusion?
 
