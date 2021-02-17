@@ -27,7 +27,7 @@ github_username: lukalafaye
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: false
-two_columns_layout: false
+two_columns_layout: true
 
 
 # Advanced Settings
