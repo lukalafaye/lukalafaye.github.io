@@ -20,13 +20,13 @@ The Harvard Study of Adult Development recently gave us the answer. Since 1938, 
 The study generated thousands pages of information and the results proved that **good relationships keep us happier and healthier**.
 The three main lessons about relationships we can learn from the study are the following.
 
-Firstly, social connections are really good for us, whereas loneliness kills. People who are more socially connected to their family, friends, and community tend to become happier.They are also physically healthier, and they live longer than people who are less well connected.
+Firstly, social connections are really good for us whereas loneliness kills. People who are more socially connected to their family, friends, and community tend to become happier. They are also physically healthier, and they live longer than people who are less well connected.
 
 Secondly, it is not the number of friends and whether or not you are in a committed relationship, but the quality of your close relationships that truly matters. Living in the midst of conflict is really bad for our health whereas living in the midst of warm relationships is protective. 
 
 Thirdly, good relationships do not just protect our bodies. They also protect our brains. In fact, being in a securely attached relationship to another person lets you remember much more longer and prevent early memory decline.
 
-In conclusion, close relationships are good for our health and well-being. You may wonder how you can change your relationships for the better. Well, there is plenty of actions you can take. For example, you could replace screen time with people time or liven up a stale relationship by doing something new (long walks, date nights, etc), or reaching out to that family member who you haven't spoken to in years.
+In conclusion, close relationships are good for our health and well-being. You may wonder how you can change your relationships for the better. Well, there is plenty of actions you can take. For example, you could replace screen time with people time or liven up a stale relationship by doing something new (long walks, date nights, etc), or reach out to that family member who you haven't spoken to in years!
 
 > There isn't time, so brief is life, for bickerings, apologies, heartburnings, callings to account. There is only time for loving, and but an instant, so to speak, for that.
 
