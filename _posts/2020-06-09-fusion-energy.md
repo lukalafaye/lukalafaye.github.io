@@ -3,7 +3,7 @@ date: 2020-06-08 21:38:40
 layout: post
 title: Fusion Energy
 subtitle: "The process that powers the sun and the stars."
-image: /assets/img/uploads/fractal-1147253_1920.jpg
+image: /img/fusion.jpg
 category: science
 tags:
   - fusion
