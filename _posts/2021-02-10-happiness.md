@@ -4,7 +4,7 @@ layout: post
 title: What makes a good life?
 subtitle: "The good life is built with good relationships."
 image: /img/happiness.jpg
-category: science
+category: life
 tags:
   - happiness
   - life
