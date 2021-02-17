@@ -2,8 +2,7 @@
 date: 2020-06-08 21:38:40
 layout: post
 title: Fusion Energy
-subtitle: "A major question in the scientific world today is: When will we be
-  able to produce fusion energy?"
+subtitle: "Energy's future."
 description: It's a question that has long been asked...
 image: /assets/img/uploads/fractal-1147253_1920.jpg
 category: science
@@ -14,7 +13,10 @@ tags:
   - eddington
 paginate: true
 ---
-Fusion could make it possible to produce very large amounts of renewable energy in the upcoming years. Currently, only 10.4% of the energy consumed worldwide is renewable according to the BP Statistical Review, a British oil extraction, refining and sales company. This means that 90.6% of the energy we consume nowadays will have to be replaced in the near future. 
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/steven_cowley_fusion_is_energy_s_future" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+Fusion could help produce very large amounts of renewable energy in the upcoming years. Currently, only 10.4% of the energy consumed worldwide is renewable according to the BP Statistical Review, a British oil extraction, refining and sales company. This means that 90.6% of the energy we consume nowadays will have to be replaced in the near future. 
 
 Some people believe that nuclear power will be more than enough to cover future energy needs. Nonetheless, it is not considered a renewable energy since it requires uranium, a heavy metal which exists in limited quantities on our planet. The Uranium Peak will occur in 2040 if we continue to mine it at the current rate. Therefore, in 2040, there will be no uranium left to mine.
 
