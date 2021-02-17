@@ -6,7 +6,6 @@ subtitle: "A major question in the scientific world today is: When will we be
   able to produce fusion energy?"
 description: It's a question that has long been asked...
 image: /assets/img/uploads/fractal-1147253_1920.jpg
-optimized_image: /assets/img/uploads/fractal-1147253_1920.jpg
 category: science
 tags:
   - fusion
@@ -23,21 +22,21 @@ So how can we produce energy without these resources? We can use renewable energ
 
 In the future, energy will be produced thanks to our knowledge and not using exhaustible resources. We need to learn how to use renewable energy sources, and how to convert new energies quickly and efficiently in order to exploit them.
 
-So how do we get energy from fusion?
+So how do we get energy out of fusion?
 
-The most stable nucleus in the periodic table is iron, right in the middle of the periodic table. Less stable atoms such as uranium are trying to get closer to iron. Uranium that is relatively large compared to iron wants to split, while smaller atoms want to fuse together. It is from this fusion that energy is obtained.
+The most stable nucleus is iron, right in the middle of the periodic table. Less stable atoms such as uranium tend to lose or gain electrons in order resemble iron. In fact, Uranium which is relatively large compared to iron often splits, while smaller atoms fuse together to achieve this. That is what we call the process of fusion.
 
-In other words, fusion is a nuclear reaction in which two light atoms fuse together to produce a heavier nucleus while releasing a certain amount of energy. This energy, called fusion energy, is mainly released in the form of heat.
+It is a nuclear reaction in which two light atoms fuse together in order to produce a heavier nucleus while releasing a certain amount of energy. This energy, called fusion energy, is mainly released in the form of heat.
 
-Fusion is present in stars, as predicted by Edington. In the centre of stars, hydrogen atoms combine to form helium, which turns into carbon, which turns back into oxygen. However, this is a complicated process because it requires a high temperature, at least 150 million degrees Celsius.
+Fusion is present in stars, as predicted by Eddington. In the centre of stars, hydrogen atoms combine to form helium, which turns into carbon, which then turns back into oxygen. However, this is a complicated process because it requires high temperatures (of 150 million degrees Celsius).
 
-The simplest fusion reaction to carry out is between two hydrogen isotopes, two types of hydrogen: deuterium, which is the heavy hydrogen obtained from mother liquor, and tritium, which is extremely heavy. These two atoms are charged and repel each other, but when they are brought close enough together, a strong interaction takes place and they fuse into helium 5, releasing a lot of energy as well as a proton.
+The simplest fusion reaction to carry out is between two hydrogen isotopes : deuterium (heavy hydrogen obtained from mother liquor), and tritium (which is extremely heavy). These two atoms are charged and repel each other. However, when they are brought close enough, a strong interaction takes place and they fuse into helium 5, releasing a lot of energy and a neutron.
 
-To obtain tritium, lithium 6 is reacted with a neutron, and this produces helium and tritium. That explains why this type of fusion is renewable: you can reuse the neutron produced and carry out as many fusions as you want, while obviously maintaining a temperature of 150 million degrees. The heat actually excites the atoms in gaseous form, and causes them to collide, resulting in fusions.
+It is possible to obtain tritium and helium out of lithium 6 and neutrons. That explains why this type of fusion is renewable : the neutron produced after each fusion can be reused in other fusions. The problem is that the process requires a temperature of 150 million degrees... The heat excites the atoms in gaseous form, causing them to collide and fusion with one another.
 
-If this type of fusion can be easily achieved, we will have enough deuterium atoms to produce energy for 30 million years.
+If this type of fusion can be carried out, we will have enough deuterium atoms to produce energy for everyone for the next 30 million years.
 
-The problem is that you have to keep the gas at 150 million degrees. It seems impossible, but it has already been done using a magnetic field and what is called a magnetic torus-shaped bottle at JET, Joint European Torus, the World's biggest fusion experiment, in 1997. Exactly 16 megawatts of energy was produced from the device. 1 megawatt is about 200 tons of uranium...
+For that, we would need to keep gas at a temperature of 150 million degrees! It seems impossible although it has already been done using a magnetic field and what is called a magnetic torus-shaped bottle. In fact, in 1997, the World's biggest fusion experiment (JET) took place and we were able to produce 16 megawatts of energy. 200 tons of uranium are normally required to produce 1 megawatt.
 
 10 billion has been invested by the world's major powers to create a device that would enable this fusion, and by 2013, it is expected that half a gigawatt of energy will be produced in the form of heat. There is also the question of converting this energy into electricity so that it can be consumed.
 
