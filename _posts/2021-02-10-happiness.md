@@ -1,8 +1,8 @@
 ---
-date: 2020-02-10 21:38:40
+date: 2020-02-10 01:15:47
 layout: post
 title: What makes a good life?
-subtitle: "The good life is built with good relationships."
+subtitle: The good life is built with good relationships.
 image: /img/happiness.jpg
 category: life
 tags:
