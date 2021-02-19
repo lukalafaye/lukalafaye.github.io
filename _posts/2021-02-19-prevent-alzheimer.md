@@ -4,7 +4,7 @@ layout: post
 title: Preventing Alzheimer's
 subtitle: Alzheimer's doesn't have to be your brain's destiny.
 image: /img/alzheimer.jpg
-category: life
+category: science
 tags:
   - alzheimer
   - disease
