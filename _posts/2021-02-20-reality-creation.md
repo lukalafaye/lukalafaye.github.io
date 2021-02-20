@@ -1,5 +1,5 @@
 ---
-date: 2020-02-19 05:11:10
+date: 2020-02-20 05:11:10
 layout: post
 title: Reality creation
 subtitle: Reality isn't something you perceive, it's something you create in your mind. 
