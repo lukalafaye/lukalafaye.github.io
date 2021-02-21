@@ -1,5 +1,5 @@
 ---
-date: 2020-02-19 01:15:47
+date: 2020-11-01 00:00:00
 layout: post
 title: Preventing Alzheimer's
 subtitle: Alzheimer's doesn't have to be your brain's destiny.

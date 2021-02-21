@@ -1,5 +1,5 @@
 ---
-date: 2020-02-18 02:05:23
+date: 2020-12-01 00:00:00
 layout: post
 title: Making racism a solvable problem and improving policing 
 subtitle: We should define racism as behaviors instead of feelings.

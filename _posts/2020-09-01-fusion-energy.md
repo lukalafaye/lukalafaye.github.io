@@ -1,5 +1,5 @@
 ---
-date: 2020-06-08 21:38:40
+date: 2020-09-01 00:00:00
 layout: post
 title: Fusion Energy
 subtitle: The process that powers the sun and the stars.
