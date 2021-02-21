@@ -17,14 +17,15 @@ paginate: true
 
 Nowadays, racial discrimination is a big problem within the police force, one that feels noth necessary and impossible to solve by most police chiefs. It has been proven that some police officers tend to associate Blackness and crime or misperceive Black children as older than they actually are. 
 
-In fact, every year, about a million of United States adults are targeted for police use of force. If you're Black, you're two to four times more likely to be targeted for that force than if you're white, according to justice scientist Phillip Atiba Goff.
+In fact, every year, about a million of United States adults are targeted for police use of force. And if you're Black, you're two to four times more likely to be targeted for that force than if you're white, according to justice scientist Phillip Atiba Goff.
 
 So how can we make racism a solvable problem?
-The Center for Policing Equity proposes to change the definition of racism. Currently, racism is about feelings and is often linked to hatred or ignorance. This definition is wrong because it makes it harder to see the injuries racism causes. The definition of racism should describe racist behaviors, not feelings. If we changed it that way, we would be able to solve racism because we can measure racist behaviors. 
+The Center for Policing Equity proposes to change the definition of racism. Currently, racism is about feelings and is often linked to hatred or ignorance. This definition is wrong because it makes it harder to see the injuries racism causes. The definition of racism should describe racist behaviors, not feelings. If we made it that way, we would be able to solve racism because we can measure racist behaviors. 
 
 What actions are currently taken by the Center for Policing Equity to solve racism?
 Well, when a police department invites the organisation in, they analyze their data and propose different solutions accordingly. For example, they may observe a strong gap between the number of Black and white people targeted for police use of force in a certain area. In that case, they would ask the police to stop using too much force on Black people in that specific area. 
-Moreover, they also try to find explanations as to why racist violence occurs eventhough it is not always needed. For instance, homeless Black people in Minneapolis often need services and engage in aggressive behaviors when they cannot get their medications. This leads to cops being called and intervening violently. When they understood this, the city of Minneapolis found a way to deliver social services and city resources to the homeless community before anybody ever called the cops. 
+
+Moreover, they also try to find explanations as to why racist violence occurs eventhough it is not always needed. For instance, lots of homeless Black people in Minneapolis need services and engage in aggressive behaviors when they cannot get their medications. This leads to cops often being called and intervening violently. When they understood this, the city of Minneapolis found a way to deliver social services and city resources to the homeless community before anybody ever called the cops. 
 
 In conclusion, for the past quarter millennium, we have defined the problems of race and policing in a way that is functionally impossible to measure, making it impossible to solve the problem of racism. Fortunately, science proved that changing this definition makes racism a solvable problem because we can measure police behavior and change it for the better when needed.
 
