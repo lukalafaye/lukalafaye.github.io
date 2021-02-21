@@ -4,7 +4,7 @@ layout: post
 title: Reality creation
 subtitle: Reality isn't something you perceive, it's something you create in your mind. 
 image: /img/reality.jpg
-category: life
+category: science
 tags:
   - reality
   - creation
