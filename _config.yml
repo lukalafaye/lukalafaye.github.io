@@ -14,9 +14,7 @@ show_hero: true
 menu:
   - title: About 
     url: /about
-  - title: Photography
-    url: "www.photography.tedflix.tech"
-  - title: Contact me
+  - title: Contact
     url: /contact
 email: llafayed@pm.me
 
@@ -34,7 +32,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tedflix.tech" # the base hostname & protocol for your site
+url: "https://lukalafaye.github.io" # the base hostname & protocol for your site
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
